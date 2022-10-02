@@ -7,8 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Big and Important Header</h1>
-<h2>Slightly Less Big Header</h2>
-<h3>Sub-Header</h3>
+<h1>Tiêu đề Lớn và Quan trọng</h1>
+<h2>Tiêu đề nhỏ 1 chút</h2>
+<h3>Tiêu đề nhỏ</h3>
 </body>
 </html>
