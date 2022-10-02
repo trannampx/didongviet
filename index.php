@@ -11,10 +11,5 @@
 <h1>Hello Worrd</h1>
 <h2>My name is Nam</h2>
 <h3>i love you</h3>
-=======
-<h1>Tiêu đề Lớn và Quan trọng</h1>
-<h2>Tiêu đề nhỏ 1 chút</h2>
-<h3>Tiêu đề nhỏ</h3>
->>>>>>> 7eb4f5086abc2f36c9969853f771f0efce3ea569
 </body>
 </html>
